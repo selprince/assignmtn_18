@@ -16,11 +16,11 @@ Required software:
 
 To start the process you will need to create at least two nodes to be able to test a transaction. This process will require you to install Geth. Once installed you will navigate to the Geth folder. To create the two nodes you will need to input the following code in the gitbash command line (when you launch gitbash its advisable to run it as administrator):
 
-Create Node 1
+**Create Node 1**
 
 './geth account new node 1'
 
-Creating Node 2
+**Creating Node 2**
 
 './geth account new node 2'
 
