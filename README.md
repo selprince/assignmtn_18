@@ -1,4 +1,4 @@
-# **Assignment_18:ZBank**
+# **Assignment_18: ZBank**
 
 Instruction for launching a new chain using windows.
 
