@@ -4,7 +4,7 @@ Instruction for launching a new chain using windows.
 
 I hope you all are excited about creating your first new private testnet blockchain! If you follow the below steps carefully you will successfully create a blockchain.
 
-##**Instructions**
+## **Instructions**
 
 Required software:
 
@@ -16,11 +16,11 @@ Required software:
 
 To start the process you will need to create at least two nodes to be able to test a transaction. This process will require you to install Geth. Once installed you will navigate to the Geth folder. To create the two nodes you will need to input the following code in the gitbash command line (when you launch gitbash its advisable to run it as administrator):
 
-###Create Node 1
+### Create Node 1
 
 './geth account new node 1'
 
-###Creating Node 2
+### Creating Node 2
 
 './geth account new node 2'
 
@@ -65,13 +65,13 @@ Sixth in the puppeth prompt, you will be asked "Should the precompile-addresses 
 
 Lastly you will be asked "Specify your chain/network ID if you want an explicit one (default = random)". Please enter a number you will recall and make sure to take a note of the number as you will need it later in myCrypto.
 
-##**Managing your genesis**
+## **Managing your genesis**
 
 4. After configuring your genesis you will manage your genesis and export your genesis configuration into a [insert your file name].json (give your genesis file a name or just press enter if you are fine with the default setting) file by typing 2 again to choose the Export genesis configuaration option. Continue with the default (current) directory by hitting enter.
 
 ![Exporting configuration](export_config.png)
 
-##**Getting Ready to Mine!**
+## **Getting Ready to Mine!**
 
 In this phase we will get our nodes ready to mine.
 
@@ -90,7 +90,7 @@ When your node starts running you should see a line in the code that represents 
 ![Run Node 2](running_env2.png)
 
 
-##**Linking Your Wallet**
+## **Linking Your Wallet**
 
 After you start the mining process its time to create your wallet in myCrypto. First you will need to open myCrypto (while the nodes are still mining). 
 
@@ -108,7 +108,7 @@ After this is complete you should be able to see the wallet that you linked to y
 
 ![Successful Pre-Funding](pre_funded_node.png)
 
-##**Send a Test Transaction**
+## **Send a Test Transaction**
 
 Once your wallet is setup with the crypto currency. It is time to test your network by transferring some coins from your first node to your second node. 
 
