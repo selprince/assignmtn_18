@@ -44,6 +44,7 @@ After the creation of the nodes you will need to create your genesis block. The 
 3. After you select the genesis name you will be asked a series of questions, please follow the process outlined below. 
 
 ![Launching your Genesis!](launching_puppeth.png)
+
 [1^]Note: The above assumes a new folder was created to create the nodes in (if you choose not to create a seperate folder you just need 
 [1^]to replace ../ with ./
 
